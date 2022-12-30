@@ -5,15 +5,15 @@
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
     "status": "up",
-    "uptime": "89.37%",
+    "uptime": "89.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.37%",
+    "uptimeYear": "89.46%",
     "time": 251,
-    "timeDay": 345,
-    "timeWeek": 297,
-    "timeMonth": 255,
+    "timeDay": 344,
+    "timeWeek": 307,
+    "timeMonth": 257,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2022-10-18": 671,
@@ -43,11 +43,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 227,
-    "timeDay": 309,
-    "timeWeek": 348,
-    "timeMonth": 251,
-    "timeYear": 227,
+    "time": 228,
+    "timeDay": 312,
+    "timeWeek": 360,
+    "timeMonth": 254,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2022-11-11": 18
     }
@@ -63,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 204,
-    "timeDay": 289,
-    "timeWeek": 200,
-    "timeMonth": 202,
-    "timeYear": 204,
+    "time": 205,
+    "timeDay": 283,
+    "timeWeek": 213,
+    "timeMonth": 204,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2022-11-07": 19
     }
@@ -83,11 +83,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 198,
-    "timeDay": 301,
-    "timeWeek": 205,
-    "timeMonth": 197,
-    "timeYear": 198,
+    "time": 199,
+    "timeDay": 280,
+    "timeWeek": 213,
+    "timeMonth": 199,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2022-09-30": 19
     }
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 339,
-    "timeDay": 464,
-    "timeWeek": 351,
-    "timeMonth": 367,
-    "timeYear": 339,
+    "time": 340,
+    "timeDay": 386,
+    "timeWeek": 352,
+    "timeMonth": 366,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2022-11-02": 30,
       "2022-09-30": 19
