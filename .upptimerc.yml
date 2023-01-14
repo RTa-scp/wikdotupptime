@@ -25,6 +25,7 @@ sites:
       - "Content-Type: application/x-www-form-urlencoded; charset=UTF-8"
       - "Set-Cookie: wikidot_token7=Hj1xH7Gve9;"
     body: '{ "wikidot_token7": "Hj1xH7Gve9","categoryId": "790909","moduleName": "forum/ForumRecentPostsListModule","page":"1","limit":"5" }'
+    __dangerous__body_down: "wrong_token7"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
