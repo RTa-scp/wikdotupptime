@@ -5,14 +5,14 @@
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
     "status": "up",
-    "uptime": "92.01%",
+    "uptime": "92.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.01%",
+    "uptimeYear": "92.06%",
     "time": 247,
-    "timeDay": 220,
-    "timeWeek": 278,
+    "timeDay": 219,
+    "timeWeek": 265,
     "timeMonth": 237,
     "timeYear": 247,
     "dailyMinutesDown": {
@@ -44,9 +44,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 220,
-    "timeWeek": 232,
-    "timeMonth": 204,
+    "timeDay": 243,
+    "timeWeek": 237,
+    "timeMonth": 203,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2022-11-11": 18
@@ -63,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 200,
+    "time": 199,
     "timeDay": 183,
-    "timeWeek": 211,
-    "timeMonth": 183,
-    "timeYear": 200,
+    "timeWeek": 201,
+    "timeMonth": 184,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2022-11-07": 19
     }
@@ -83,11 +83,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 195,
-    "timeDay": 165,
-    "timeWeek": 205,
-    "timeMonth": 183,
-    "timeYear": 195,
+    "time": 194,
+    "timeDay": 171,
+    "timeWeek": 199,
+    "timeMonth": 182,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2022-09-30": 19
     }
@@ -104,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 341,
-    "timeDay": 316,
-    "timeWeek": 358,
-    "timeMonth": 349,
+    "timeDay": 353,
+    "timeWeek": 347,
+    "timeMonth": 350,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2022-11-02": 30,
