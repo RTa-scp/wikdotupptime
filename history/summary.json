@@ -79,9 +79,9 @@
     "slug": "scp-jp-fs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 208,
     "timeDay": 1920,
@@ -89,7 +89,6 @@
     "timeMonth": 292,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-03-16": 5,
       "2022-09-30": 19
     }
   },
@@ -98,18 +97,19 @@
     "url": "http://05command-ja.wikidot.com/",
     "icon": "https://05command-ja.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-05",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 341,
-    "timeDay": 291,
-    "timeWeek": 314,
-    "timeMonth": 344,
-    "timeYear": 341,
+    "time": 347,
+    "timeDay": 1331,
+    "timeWeek": 493,
+    "timeMonth": 389,
+    "timeYear": 347,
     "dailyMinutesDown": {
+      "2023-03-16": 0,
       "2022-11-02": 30,
       "2022-09-30": 19
     }
