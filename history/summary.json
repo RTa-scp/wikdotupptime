@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.06%",
     "time": 243,
-    "timeDay": 201,
-    "timeWeek": 214,
-    "timeMonth": 202,
+    "timeDay": 238,
+    "timeWeek": 213,
+    "timeMonth": 201,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2023-05-30": 16,
@@ -45,9 +45,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 152,
-    "timeWeek": 214,
-    "timeMonth": 172,
+    "timeDay": 191,
+    "timeWeek": 212,
+    "timeMonth": 171,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2022-11-11": 18
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 186,
-    "timeWeek": 178,
+    "timeDay": 200,
+    "timeWeek": 176,
     "timeMonth": 158,
     "timeYear": 197,
     "dailyMinutesDown": {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 173,
-    "timeWeek": 168,
-    "timeMonth": 155,
+    "timeDay": 188,
+    "timeWeek": 165,
+    "timeMonth": 154,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2022-09-30": 19
@@ -105,13 +105,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 385,
-    "timeDay": 304,
-    "timeWeek": 312,
-    "timeMonth": 294,
+    "timeDay": 302,
+    "timeWeek": 311,
+    "timeMonth": 291,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2022-11-02": 30,
       "2022-09-30": 19
     }
+  },
+  {
+    "name": "SCP-JP AMC",
+    "url": "https://scp-jp.wikidot.com/ajax-module-connector.php",
+    "icon": "https://icons.duckduckgo.com/ip3/scp-jp.wikidot.com.ico",
+    "slug": "scp-jp-amc",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
+    "dailyMinutesDown": {}
   }
 ]
