@@ -58,18 +58,19 @@
     "url": "http://scp-jp-sandbox3.wikidot.com/",
     "icon": "https://scp-jp-sandbox3.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-sb-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 204,
-    "timeWeek": 168,
-    "timeMonth": 169,
-    "timeYear": 194,
+    "time": 197,
+    "timeDay": 1062,
+    "timeWeek": 317,
+    "timeMonth": 204,
+    "timeYear": 197,
     "dailyMinutesDown": {
+      "2023-08-25": 0,
       "2022-11-07": 19
     }
   },
@@ -80,9 +81,9 @@
     "slug": "scp-jp-fs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
     "timeDay": 719,
@@ -90,7 +91,6 @@
     "timeMonth": 197,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2023-08-25": 6,
       "2022-09-30": 19
     }
   },
