@@ -5,15 +5,15 @@
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
     "status": "up",
-    "uptime": "96.69%",
+    "uptime": "96.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.55%",
     "time": 239,
-    "timeDay": 286,
-    "timeWeek": 199,
-    "timeMonth": 217,
+    "timeDay": 296,
+    "timeWeek": 223,
+    "timeMonth": 221,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2023-05-30": 16,
@@ -45,9 +45,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 229,
-    "timeWeek": 179,
-    "timeMonth": 214,
+    "timeDay": 245,
+    "timeWeek": 202,
+    "timeMonth": 216,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2022-11-11": 18
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 212,
-    "timeWeek": 161,
-    "timeMonth": 212,
+    "timeDay": 254,
+    "timeWeek": 181,
+    "timeMonth": 215,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2022-11-07": 19
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 222,
-    "timeWeek": 154,
-    "timeMonth": 201,
+    "timeDay": 252,
+    "timeWeek": 173,
+    "timeMonth": 203,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2022-09-30": 19
@@ -105,10 +105,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 373,
-    "timeDay": 367,
-    "timeWeek": 302,
-    "timeMonth": 307,
-    "timeYear": 372,
+    "timeDay": 402,
+    "timeWeek": 328,
+    "timeMonth": 312,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2022-11-02": 30,
       "2022-09-30": 19
@@ -125,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 201,
-    "timeWeek": 129,
-    "timeMonth": 145,
-    "timeYear": 139,
+    "time": 140,
+    "timeDay": 208,
+    "timeWeek": 146,
+    "timeMonth": 148,
+    "timeYear": 140,
     "dailyMinutesDown": {}
   }
 ]
