@@ -5,15 +5,15 @@
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
     "status": "up",
-    "uptime": "96.73%",
+    "uptime": "96.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.55%",
     "time": 239,
-    "timeDay": 292,
-    "timeWeek": 260,
-    "timeMonth": 227,
+    "timeDay": 192,
+    "timeWeek": 250,
+    "timeMonth": 226,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2023-05-30": 16,
@@ -45,10 +45,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 256,
-    "timeWeek": 249,
-    "timeMonth": 214,
-    "timeYear": 209,
+    "timeDay": 242,
+    "timeWeek": 231,
+    "timeMonth": 215,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2022-11-11": 18
     }
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 221,
-    "timeWeek": 202,
-    "timeMonth": 221,
+    "timeDay": 106,
+    "timeWeek": 189,
+    "timeMonth": 218,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2022-11-07": 19
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 232,
-    "timeWeek": 203,
-    "timeMonth": 208,
+    "timeDay": 123,
+    "timeWeek": 192,
+    "timeMonth": 206,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2022-09-30": 19
@@ -105,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 372,
-    "timeDay": 374,
-    "timeWeek": 341,
-    "timeMonth": 311,
+    "timeDay": 233,
+    "timeWeek": 320,
+    "timeMonth": 307,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2022-11-02": 30,
@@ -125,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 191,
-    "timeWeek": 164,
-    "timeMonth": 150,
-    "timeYear": 141,
+    "time": 140,
+    "timeDay": 73,
+    "timeWeek": 152,
+    "timeMonth": 147,
+    "timeYear": 140,
     "dailyMinutesDown": {}
   }
 ]
