@@ -5,14 +5,14 @@
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
     "status": "up",
-    "uptime": "96.81%",
+    "uptime": "96.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.55%",
     "time": 238,
-    "timeDay": 234,
-    "timeWeek": 225,
+    "timeDay": 130,
+    "timeWeek": 224,
     "timeMonth": 213,
     "timeYear": 233,
     "dailyMinutesDown": {
@@ -44,11 +44,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 174,
-    "timeWeek": 220,
-    "timeMonth": 203,
-    "timeYear": 209,
+    "time": 210,
+    "timeDay": 75,
+    "timeWeek": 218,
+    "timeMonth": 201,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2022-11-11": 18
     }
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 176,
-    "timeWeek": 286,
-    "timeMonth": 193,
+    "timeDay": 81,
+    "timeWeek": 281,
+    "timeMonth": 191,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2022-11-07": 19
@@ -85,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 169,
-    "timeWeek": 172,
-    "timeMonth": 164,
-    "timeYear": 198,
+    "timeDay": 98,
+    "timeWeek": 170,
+    "timeMonth": 163,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -102,9 +102,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 371,
-    "timeDay": 331,
-    "timeWeek": 317,
+    "time": 370,
+    "timeDay": 235,
+    "timeWeek": 324,
     "timeMonth": 300,
     "timeYear": 372,
     "dailyMinutesDown": {
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 150,
-    "timeWeek": 144,
-    "timeMonth": 133,
-    "timeYear": 139,
+    "time": 138,
+    "timeDay": 63,
+    "timeWeek": 142,
+    "timeMonth": 132,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   }
 ]
