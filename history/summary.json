@@ -5,14 +5,14 @@
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
     "status": "up",
-    "uptime": "97.04%",
+    "uptime": "97.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 319,
-    "timeWeek": 246,
+    "timeDay": 262,
+    "timeWeek": 257,
     "timeMonth": 227,
     "timeYear": 233,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 388,
-    "timeWeek": 268,
-    "timeMonth": 212,
+    "timeDay": 239,
+    "timeWeek": 282,
+    "timeMonth": 213,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2022-11-11": 18
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 244,
-    "timeWeek": 191,
-    "timeMonth": 175,
+    "timeDay": 214,
+    "timeWeek": 200,
+    "timeMonth": 176,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2022-11-07": 19
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 248,
-    "timeWeek": 186,
-    "timeMonth": 174,
+    "timeDay": 193,
+    "timeWeek": 192,
+    "timeMonth": 175,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -89,13 +89,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 371,
-    "timeDay": 419,
-    "timeWeek": 360,
+    "timeDay": 351,
+    "timeWeek": 362,
     "timeMonth": 358,
     "timeYear": 375,
-    "dailyMinutesDown": {
-      "2022-11-02": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP AMC",
@@ -109,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 211,
-    "timeWeek": 161,
+    "timeDay": 171,
+    "timeWeek": 167,
     "timeMonth": 141,
     "timeYear": 139,
     "dailyMinutesDown": {}
