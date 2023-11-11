@@ -5,16 +5,16 @@
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
     "status": "up",
-    "uptime": "97.10%",
+    "uptime": "97.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 168,
-    "timeWeek": 200,
-    "timeMonth": 218,
-    "timeYear": 233,
+    "timeDay": 338,
+    "timeWeek": 218,
+    "timeMonth": 220,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2023-05-30": 16
     }
@@ -31,13 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 166,
-    "timeWeek": 189,
-    "timeMonth": 205,
+    "timeDay": 272,
+    "timeWeek": 200,
+    "timeMonth": 207,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2022-11-11": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP サンドボックスⅢ(SB3)",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 191,
-    "timeWeek": 197,
-    "timeMonth": 179,
-    "timeYear": 193,
+    "time": 195,
+    "timeDay": 248,
+    "timeWeek": 202,
+    "timeMonth": 180,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -69,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 189,
-    "timeWeek": 178,
-    "timeMonth": 172,
-    "timeYear": 194,
+    "timeDay": 274,
+    "timeWeek": 189,
+    "timeMonth": 174,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 265,
-    "timeWeek": 322,
-    "timeMonth": 333,
+    "timeDay": 386,
+    "timeWeek": 326,
+    "timeMonth": 334,
     "timeYear": 376,
     "dailyMinutesDown": {}
   },
@@ -105,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 109,
-    "timeWeek": 117,
-    "timeMonth": 134,
+    "timeDay": 213,
+    "timeWeek": 126,
+    "timeMonth": 136,
     "timeYear": 138,
     "dailyMinutesDown": {}
   }
