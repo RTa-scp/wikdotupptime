@@ -5,14 +5,14 @@
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 231,
-    "timeWeek": 220,
+    "timeDay": 167,
+    "timeWeek": 209,
     "timeMonth": 222,
     "timeYear": 233,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 186,
-    "timeWeek": 193,
-    "timeMonth": 215,
-    "timeYear": 209,
+    "timeDay": 265,
+    "timeWeek": 195,
+    "timeMonth": 219,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 205,
-    "timeWeek": 182,
+    "timeDay": 136,
+    "timeWeek": 174,
     "timeMonth": 185,
-    "timeYear": 193,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   },
   {
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 190,
-    "timeWeek": 175,
+    "timeDay": 145,
+    "timeWeek": 170,
     "timeMonth": 177,
-    "timeYear": 194,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -85,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 399,
-    "timeWeek": 338,
-    "timeMonth": 331,
-    "timeYear": 376,
+    "timeDay": 305,
+    "timeWeek": 331,
+    "timeMonth": 332,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   },
   {
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 149,
-    "timeWeek": 136,
-    "timeMonth": 135,
+    "timeDay": 124,
+    "timeWeek": 133,
+    "timeMonth": 136,
     "timeYear": 137,
     "dailyMinutesDown": {}
   }
