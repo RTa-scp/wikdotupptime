@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 1122,
-    "timeWeek": 500,
+    "timeDay": 1113,
+    "timeWeek": 498,
     "timeMonth": 284,
     "timeYear": 237,
     "dailyMinutesDown": {
@@ -26,18 +26,16 @@
     "slug": "scp-jp-main",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 7123,
-    "timeWeek": 2492,
+    "timeDay": 7108,
+    "timeWeek": 2491,
     "timeMonth": 771,
     "timeYear": 254,
-    "dailyMinutesDown": {
-      "2023-12-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP サンドボックスⅢ(SB3)",
@@ -51,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 611,
-    "timeWeek": 329,
+    "timeDay": 605,
+    "timeWeek": 330,
     "timeMonth": 215,
     "timeYear": 194,
     "dailyMinutesDown": {}
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 776,
-    "timeWeek": 524,
-    "timeMonth": 255,
+    "timeDay": 749,
+    "timeWeek": 523,
+    "timeMonth": 254,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 3681,
-    "timeWeek": 1348,
-    "timeMonth": 562,
+    "timeDay": 3651,
+    "timeWeek": 1343,
+    "timeMonth": 561,
     "timeYear": 392,
     "dailyMinutesDown": {}
   },
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 847,
-    "timeWeek": 272,
+    "time": 143,
+    "timeDay": 841,
+    "timeWeek": 271,
     "timeMonth": 163,
-    "timeYear": 144,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   }
 ]
