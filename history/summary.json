@@ -5,18 +5,17 @@
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
     "status": "up",
-    "uptime": "97.64%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "97.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 244,
-    "timeWeek": 202,
-    "timeMonth": 203,
+    "timeDay": 188,
+    "timeWeek": 198,
+    "timeMonth": 202,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2024-02-19": 5,
       "2023-12-10": 47,
       "2023-05-30": 16
     }
@@ -28,18 +27,16 @@
     "slug": "scp-jp-main",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 161,
-    "timeWeek": 159,
-    "timeMonth": 238,
+    "time": 262,
+    "timeDay": 227,
+    "timeWeek": 175,
+    "timeMonth": 240,
     "timeYear": 265,
-    "dailyMinutesDown": {
-      "2024-02-19": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP サンドボックスⅢ(SB3)",
@@ -48,18 +45,16 @@
     "slug": "scp-jp-sb-3",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 178,
-    "timeWeek": 1083,
-    "timeMonth": 401,
+    "timeDay": 139,
+    "timeWeek": 1080,
+    "timeMonth": 399,
     "timeYear": 219,
-    "dailyMinutesDown": {
-      "2024-02-19": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP ファイルストレージ(FS)",
@@ -68,18 +63,16 @@
     "slug": "scp-jp-fs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 982,
-    "timeWeek": 323,
-    "timeMonth": 204,
+    "timeDay": 948,
+    "timeWeek": 319,
+    "timeMonth": 203,
     "timeYear": 203,
-    "dailyMinutesDown": {
-      "2024-02-19": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP 財団日本支部理事会(05)",
@@ -92,10 +85,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 315,
-    "timeWeek": 299,
-    "timeMonth": 331,
+    "time": 405,
+    "timeDay": 294,
+    "timeWeek": 298,
+    "timeMonth": 330,
     "timeYear": 410,
     "dailyMinutesDown": {}
   },
@@ -106,17 +99,15 @@
     "slug": "scp-jp-amc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 142,
-    "timeWeek": 117,
-    "timeMonth": 121,
+    "timeDay": 107,
+    "timeWeek": 115,
+    "timeMonth": 120,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2024-02-19": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
