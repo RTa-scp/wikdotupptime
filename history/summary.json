@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 300,
-    "timeWeek": 747,
-    "timeMonth": 449,
+    "timeDay": 227,
+    "timeWeek": 742,
+    "timeMonth": 448,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-12-10": 47,
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 240,
-    "timeWeek": 480,
+    "timeDay": 190,
+    "timeWeek": 478,
     "timeMonth": 448,
     "timeYear": 286,
     "dailyMinutesDown": {}
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 195,
-    "timeWeek": 261,
-    "timeMonth": 583,
+    "timeDay": 150,
+    "timeWeek": 258,
+    "timeMonth": 582,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -63,18 +63,16 @@
     "slug": "scp-jp-fs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 3259,
+    "timeDay": 3237,
     "timeWeek": 800,
-    "timeMonth": 546,
+    "timeMonth": 545,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2024-03-03": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP 財団日本支部理事会(05)",
@@ -83,18 +81,16 @@
     "slug": "scp-jp-05",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 454,
-    "timeDay": 1740,
-    "timeWeek": 945,
-    "timeMonth": 985,
+    "timeDay": 1692,
+    "timeWeek": 942,
+    "timeMonth": 984,
     "timeYear": 465,
-    "dailyMinutesDown": {
-      "2024-03-03": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP AMC",
@@ -108,8 +104,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 158,
-    "timeWeek": 149,
+    "timeDay": 117,
+    "timeWeek": 145,
     "timeMonth": 183,
     "timeYear": 147,
     "dailyMinutesDown": {}
