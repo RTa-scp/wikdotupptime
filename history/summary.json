@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 1507,
-    "timeWeek": 387,
-    "timeMonth": 501,
+    "timeDay": 1508,
+    "timeWeek": 385,
+    "timeMonth": 500,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2023-12-10": 47,
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 229,
-    "timeWeek": 169,
-    "timeMonth": 447,
+    "time": 279,
+    "timeDay": 236,
+    "timeWeek": 174,
+    "timeMonth": 446,
     "timeYear": 284,
     "dailyMinutesDown": {}
   },
@@ -45,18 +45,16 @@
     "slug": "scp-jp-sb-3",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 815,
-    "timeWeek": 274,
-    "timeMonth": 608,
+    "timeDay": 788,
+    "timeWeek": 272,
+    "timeMonth": 606,
     "timeYear": 234,
-    "dailyMinutesDown": {
-      "2024-03-11": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP ファイルストレージ(FS)",
@@ -70,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 821,
-    "timeWeek": 256,
+    "timeDay": 819,
+    "timeWeek": 258,
     "timeMonth": 574,
     "timeYear": 230,
     "dailyMinutesDown": {}
@@ -83,18 +81,16 @@
     "slug": "scp-jp-05",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 895,
-    "timeWeek": 415,
-    "timeMonth": 1023,
+    "time": 455,
+    "timeDay": 879,
+    "timeWeek": 414,
+    "timeMonth": 1022,
     "timeYear": 464,
-    "dailyMinutesDown": {
-      "2024-03-11": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP AMC",
@@ -108,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 146,
-    "timeWeek": 121,
-    "timeMonth": 189,
+    "timeDay": 160,
+    "timeWeek": 120,
+    "timeMonth": 188,
     "timeYear": 146,
     "dailyMinutesDown": {}
   }
