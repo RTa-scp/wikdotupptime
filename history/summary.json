@@ -43,19 +43,19 @@
     "url": "http://scp-jp-sandbox3.wikidot.com/",
     "icon": "https://scp-jp-sandbox3.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-sb-3",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 816,
-    "timeWeek": 282,
-    "timeMonth": 398,
+    "timeDay": 818,
+    "timeWeek": 300,
+    "timeMonth": 402,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-03-21": 1
+      "2024-03-21": 5
     }
   },
   {
