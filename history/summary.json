@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 250,
-    "timeDay": 204,
-    "timeWeek": 195,
-    "timeMonth": 501,
-    "timeYear": 252,
+    "timeDay": 271,
+    "timeWeek": 203,
+    "timeMonth": 502,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2023-12-10": 47,
       "2023-05-30": 16
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 163,
-    "timeWeek": 182,
+    "timeDay": 207,
+    "timeWeek": 172,
     "timeMonth": 451,
     "timeYear": 283,
     "dailyMinutesDown": {}
@@ -45,18 +45,16 @@
     "slug": "scp-jp-sb-3",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 818,
-    "timeWeek": 300,
-    "timeMonth": 402,
+    "timeDay": 836,
+    "timeWeek": 302,
+    "timeMonth": 403,
     "timeYear": 236,
-    "dailyMinutesDown": {
-      "2024-03-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP ファイルストレージ(FS)",
@@ -70,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 173,
-    "timeWeek": 160,
+    "timeDay": 191,
+    "timeWeek": 165,
     "timeMonth": 540,
     "timeYear": 222,
     "dailyMinutesDown": {}
@@ -88,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 311,
-    "timeWeek": 306,
-    "timeMonth": 1021,
+    "timeDay": 360,
+    "timeWeek": 312,
+    "timeMonth": 1023,
     "timeYear": 448,
     "dailyMinutesDown": {}
   },
@@ -106,8 +104,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 119,
-    "timeWeek": 108,
+    "timeDay": 163,
+    "timeWeek": 113,
     "timeMonth": 187,
     "timeYear": 144,
     "dailyMinutesDown": {}
